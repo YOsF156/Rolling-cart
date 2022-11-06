@@ -1,0 +1,5 @@
+.products-container {
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+}
